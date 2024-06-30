@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecondChanceApp</string>
+    <string name="fab_content_description">Add new item</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Create Listing</string>
+    <!-- Other existing string resources -->
+    <string name="second_fragment_content_description">Scrollable content in the second fragment</string>
+    <string name="second_fragment_constraint_layout_description">Constraint layout in the second fragment</string>
+
+
+
+</resources>
